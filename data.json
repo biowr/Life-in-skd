@@ -21,7 +21,11 @@
                 "link": "https://sourl.cn/Wxn2kT",
                 "description": "校园报修"
             },
-            
+            {
+                "name": "校园卡网络自助服务系统",
+                "link": "https://sourl.cn/Ca9cfQ",
+                "description": "（需要校园网）查看校园卡信息，可以下载校园卡黑照"
+            },
         ]
     },
     {
@@ -49,7 +53,11 @@
                 "description": "写论文找他！校外登陆，学号和身份证后6位"
             },
             
-           
+            {
+                "name": "SCI-HUB",
+                "link": "https://sourl.cn/Kxkqm6",
+                "description": "外文文献下载神器"
+            },
         ]
     },
     {
@@ -72,12 +80,12 @@
                 "link": "http://210.29.7.181/index.aspx",
                 "description": "学校购买的常用正版系统和软件，校内登陆"
             },
-           
-            {
-                "name": "校园卡网络自助服务系统",
-                "link": "https://sourl.cn/Ca9cfQ",
-                "description": "（需要校园网）查看校园卡信息，可以下载校园卡黑照"
+           {
+                "name": "专业软件",
+                "link": "https://biowr.gitee.io/tools.html",
+                "description": "文献下载管理、数据处理、图形处理、Adobe全家桶"
             },
+            
            
         ]
     },

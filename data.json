@@ -1,34 +1,5 @@
 [
     {
-        "title": "常用网址",
-        "items": [
-          
-            {
-                "name": "宿舍宽带登录",
-                "link": "http://10.160.63.9/",
-                "description": "初始账户学工号，初始密码身份证"
-            }
-            
-        ]
-    },
-    {
-        "title": "基础设施",
-        "items": [
-           
-        
-            {
-                "name": "后勤报修",
-                "link": "https://sourl.cn/Wxn2kT",
-                "description": "校园报修"
-            },
-            {
-                "name": "校园卡网络自助服务系统",
-                "link": "https://sourl.cn/Ca9cfQ",
-                "description": "（需要校园网）查看校园卡信息，可以下载校园卡黑照"
-            }
-        ]
-    },
-    {
         "title": "学习科研",
         "items": [
             {
@@ -60,6 +31,40 @@
             }
         ]
     },
+    
+    
+    {
+        "title": "常用网址",
+        "items": [
+          
+            {
+                "name": "宿舍宽带登录",
+                "link": "http://10.160.63.9/",
+                "description": "初始账户学工号，初始密码身份证"
+            }
+            
+        ]
+    },
+    
+    
+    {
+        "title": "基础设施",
+        "items": [
+           
+        
+            {
+                "name": "后勤报修",
+                "link": "https://sourl.cn/Wxn2kT",
+                "description": "校园报修"
+            },
+            {
+                "name": "校园卡网络自助服务系统",
+                "link": "https://sourl.cn/Ca9cfQ",
+                "description": "（需要校园网）查看校园卡信息，可以下载校园卡黑照"
+            }
+        ]
+    },
+   
     {
         "title": "信息服务",
         "items": [
@@ -89,6 +94,9 @@
            
         ]
     },
+    
+    
+    
     {
         "title": "趣味苏科",
         "items": [
